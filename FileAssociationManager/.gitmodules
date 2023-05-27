@@ -1,0 +1,3 @@
+[submodule "libs/csv_parser/3rd-party/googletest"]
+	path = libs/csv_parser/3rd-party/googletest
+	url = https://github.com/google/googletest
