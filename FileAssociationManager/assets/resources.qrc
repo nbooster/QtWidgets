@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>generic-icon.png</file>
+		<file>aap.ico</file>
+		<file>can.ico</file>
+		<file>ffpga.ico</file>
+		<file>gp3.ico</file>
+		<file>gp4.ico</file>
+		<file>gp5.ico</file>
+		<file>gp6.ico</file>
+		<file>hvp.ico</file>
+		<file>ldo.ico</file>
+		<file>ppak.ico</file>
+    </qresource>
+</RCC>
